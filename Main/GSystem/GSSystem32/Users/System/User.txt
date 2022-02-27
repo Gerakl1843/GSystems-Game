@@ -1,0 +1,3 @@
+login:GSSystem
+password:729410
+permissions:admin,user,special
